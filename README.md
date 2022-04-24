@@ -9,9 +9,20 @@ python -m pip install rtoindia && rtoindia
 ```
 
 #### Features :
-+   **`rtoindia`**, ** Get Vehical Information  **
+   **`rtoindia`**, ** Get Vehical Information  **
 
+#### Screenshot
+  <a href="#"><img src="https://raw.githubusercontent.com/Bhai4You/bhai4you/master/Screenshot_20220424-193224.jpg" alt=""></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/Bhai4You/bhai4you/master/Screenshot_20220424-193237__01.jpg" alt=""></a>
 
+### Readme.first
+```
+🇮🇳 Only for India & Made in India 🙂
+👀 i just used random number plate for demo purposes.
+🚫 Don't harm anyone by using this tool.
+🧠 Set your limit for long-term Use ;) | fork for backup
+🕵️ I am sure you can't find vehicle owner address by any apps or tools ;)
+```
 #### How to install :
 ```
 $ pkg install python -y
@@ -40,7 +51,7 @@ Dont harm anyone using this tool.
 
 #### About Us :
 ```
-Created by Parixit Sutariya
+Coded by Parixit Sutariya
 Github : github.com/Bhai4You
 Blogspot : https://bhai4you.blogspot.com
 ```
