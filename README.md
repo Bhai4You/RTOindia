@@ -2,6 +2,13 @@
   <br>
   <a href="#"><img src="https://raw.githubusercontent.com/Bhai4You/bhai4you/master/20220422_0942171.gif" alt=""></a>
 
+#### Requirements :
+```
+pkg update -y
+pkg upgrade -y
+pkg install wget -y
+pkg install jq -y
+```
 
 #### Installation :
 ```
